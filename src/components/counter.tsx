@@ -7,7 +7,7 @@ export default function Counter() {
 
   return (
     <>
-      <h1 className='mb-4 text-4xl'>Vite ReactTS — Starter</h1>
+      <h1 className='mb-4 text-4xl'>Vite ReactTS</h1>
       <section className='container flex h-72 w-96 flex-col items-center justify-between rounded-xl border border-tertiary bg-secondary py-10'>
         <h2 className='text-6xl'>{count}</h2>
         <div className='flex gap-x-5'>
